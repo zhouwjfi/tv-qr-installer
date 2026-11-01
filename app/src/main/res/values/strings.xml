@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TV 扫码安装</string>
+    <string name="qr_desc">手机扫码访问的上传地址</string>
+    <string name="steps">① 手机扫描左侧二维码\n② 在打开的页面中选择 APK 并上传\n③ 确认页弹出后,先按「右」方向键选中「安装」,再按「确认」</string>
+    <string name="footnote">数据仅在局域网内传输,不会上传到互联网 · 按遥控器「确认」键可打开安装权限设置</string>
+</resources>

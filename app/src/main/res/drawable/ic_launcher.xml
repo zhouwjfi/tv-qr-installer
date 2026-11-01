@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#0D1420"
+        android:pathData="M0,0h108v108h-108z" />
+    <!-- QR 定位角(三个角) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M26,26h16v4h-12v12h-4z M66,26h16v16h-4v-12h-12z M26,66h4v12h12v4h-16z M32,32h8v8h-8z M72,32h8v8h-8z M32,72h8v8h-8z" />
+    <!-- 下载箭头 -->
+    <path
+        android:fillColor="#F5C518"
+        android:pathData="M52,48h6v14h7l-10,11l-10,-11h7z M48,40h14v4h-14z" />
+    <!-- 装饰点 -->
+    <path
+        android:fillColor="#9AA7BD"
+        android:pathData="M54,74h6v6h-6z M64,74h6v6h-6z M64,64h6v6h-6z" />
+</vector>
